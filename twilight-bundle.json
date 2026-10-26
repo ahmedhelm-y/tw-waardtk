@@ -1,14 +1,14 @@
 {
     "name": {
-        "ar": "\u0648\u0631\u062f\u062a\u0643",
-        "en": "Wa=ardtk"
+        "ar": "وردتك",
+        "en": "Wardtk"
     },
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": null,
+        "en": null
     },
     "author_email": "ahmedhelmy2722@gmail.com",
-    "support_url": "",
+    "support_url": null,
     "repository": "https://github.com/ahmedhelm-y/tw-waardtk",
     "components": []
 }
